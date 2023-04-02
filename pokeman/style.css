@@ -1,0 +1,31 @@
+
+#next-btn{
+   
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: rgb(213, 220, 17);
+    color: white;
+  
+}
+
+#previous-btn{
+   
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgb(213, 220, 17);
+    color: white;
+   
+}
+
+table {
+    
+    text-align: center ;
+    font-size:small;
+   
+ }
+ #moves{
+    text-align: left;
+   
+ }
